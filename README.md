@@ -194,10 +194,3 @@ This project closely mirrors **real-world Data Analyst / Business Analyst respon
 
 ---
 
-If you want, I can:
-
-* Add **quantified impact metrics** (e.g., % improvement, efficiency gains)
-* Customize this README for a **specific job posting**
-* Rewrite this in a **consulting or product analytics style**
-
-Just tell me what you want next 🚀
